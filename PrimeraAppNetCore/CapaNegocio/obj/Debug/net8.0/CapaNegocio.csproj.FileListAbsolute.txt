@@ -1,0 +1,103 @@
+C:\Users\Windows\source\repos\PrimeraAppNetCore\CapaNegocio\bin\Debug\net8.0\CapaNegocio.deps.json
+C:\Users\Windows\source\repos\PrimeraAppNetCore\CapaNegocio\bin\Debug\net8.0\CapaNegocio.dll
+C:\Users\Windows\source\repos\PrimeraAppNetCore\CapaNegocio\bin\Debug\net8.0\CapaNegocio.pdb
+C:\Users\Windows\source\repos\PrimeraAppNetCore\CapaNegocio\bin\Debug\net8.0\CapaDatos.dll
+C:\Users\Windows\source\repos\PrimeraAppNetCore\CapaNegocio\bin\Debug\net8.0\CapaEntidad.dll
+C:\Users\Windows\source\repos\PrimeraAppNetCore\CapaNegocio\bin\Debug\net8.0\CapaDatos.pdb
+C:\Users\Windows\source\repos\PrimeraAppNetCore\CapaNegocio\bin\Debug\net8.0\CapaEntidad.pdb
+C:\Users\Windows\source\repos\PrimeraAppNetCore\CapaNegocio\obj\Debug\net8.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Windows\source\repos\PrimeraAppNetCore\CapaNegocio\obj\Debug\net8.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\source\repos\PrimeraAppNetCore\CapaNegocio\obj\Debug\net8.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\Windows\source\repos\PrimeraAppNetCore\CapaNegocio\obj\Debug\net8.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\Windows\source\repos\PrimeraAppNetCore\CapaNegocio\obj\Debug\net8.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\PrimeraAppNetCore\CapaNegocio\obj\Debug\net8.0\CapaNego.81B9D119.Up2Date
+C:\Users\Windows\source\repos\PrimeraAppNetCore\CapaNegocio\obj\Debug\net8.0\CapaNegocio.dll
+C:\Users\Windows\source\repos\PrimeraAppNetCore\CapaNegocio\obj\Debug\net8.0\refint\CapaNegocio.dll
+C:\Users\Windows\source\repos\PrimeraAppNetCore\CapaNegocio\obj\Debug\net8.0\CapaNegocio.pdb
+C:\Users\Windows\source\repos\PrimeraAppNetCore\CapaNegocio\obj\Debug\net8.0\ref\CapaNegocio.dll
+C:\Users\Windows\OneDrive\Escritorio\ESPE\CLASES\4 Semestre\2257 - PROGRAMACION WEB\2257_PROGRAMACION_WEB\3P\PrimeraAppNetCore\CapaNegocio\bin\Debug\net8.0\CapaNegocio.deps.json
+C:\Users\Windows\OneDrive\Escritorio\ESPE\CLASES\4 Semestre\2257 - PROGRAMACION WEB\2257_PROGRAMACION_WEB\3P\PrimeraAppNetCore\CapaNegocio\bin\Debug\net8.0\CapaNegocio.dll
+C:\Users\Windows\OneDrive\Escritorio\ESPE\CLASES\4 Semestre\2257 - PROGRAMACION WEB\2257_PROGRAMACION_WEB\3P\PrimeraAppNetCore\CapaNegocio\bin\Debug\net8.0\CapaNegocio.pdb
+C:\Users\Windows\OneDrive\Escritorio\ESPE\CLASES\4 Semestre\2257 - PROGRAMACION WEB\2257_PROGRAMACION_WEB\3P\PrimeraAppNetCore\CapaNegocio\bin\Debug\net8.0\CapaDatos.dll
+C:\Users\Windows\OneDrive\Escritorio\ESPE\CLASES\4 Semestre\2257 - PROGRAMACION WEB\2257_PROGRAMACION_WEB\3P\PrimeraAppNetCore\CapaNegocio\bin\Debug\net8.0\CapaEntidad.dll
+C:\Users\Windows\OneDrive\Escritorio\ESPE\CLASES\4 Semestre\2257 - PROGRAMACION WEB\2257_PROGRAMACION_WEB\3P\PrimeraAppNetCore\CapaNegocio\bin\Debug\net8.0\CapaDatos.pdb
+C:\Users\Windows\OneDrive\Escritorio\ESPE\CLASES\4 Semestre\2257 - PROGRAMACION WEB\2257_PROGRAMACION_WEB\3P\PrimeraAppNetCore\CapaNegocio\bin\Debug\net8.0\CapaEntidad.pdb
+C:\Users\Windows\OneDrive\Escritorio\ESPE\CLASES\4 Semestre\2257 - PROGRAMACION WEB\2257_PROGRAMACION_WEB\3P\PrimeraAppNetCore\CapaNegocio\obj\Debug\net8.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive\Escritorio\ESPE\CLASES\4 Semestre\2257 - PROGRAMACION WEB\2257_PROGRAMACION_WEB\3P\PrimeraAppNetCore\CapaNegocio\obj\Debug\net8.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\OneDrive\Escritorio\ESPE\CLASES\4 Semestre\2257 - PROGRAMACION WEB\2257_PROGRAMACION_WEB\3P\PrimeraAppNetCore\CapaNegocio\obj\Debug\net8.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\Windows\OneDrive\Escritorio\ESPE\CLASES\4 Semestre\2257 - PROGRAMACION WEB\2257_PROGRAMACION_WEB\3P\PrimeraAppNetCore\CapaNegocio\obj\Debug\net8.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\Windows\OneDrive\Escritorio\ESPE\CLASES\4 Semestre\2257 - PROGRAMACION WEB\2257_PROGRAMACION_WEB\3P\PrimeraAppNetCore\CapaNegocio\obj\Debug\net8.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive\Escritorio\ESPE\CLASES\4 Semestre\2257 - PROGRAMACION WEB\2257_PROGRAMACION_WEB\3P\PrimeraAppNetCore\CapaNegocio\obj\Debug\net8.0\CapaNegocio.sourcelink.json
+C:\Users\Windows\OneDrive\Escritorio\ESPE\CLASES\4 Semestre\2257 - PROGRAMACION WEB\2257_PROGRAMACION_WEB\3P\PrimeraAppNetCore\CapaNegocio\obj\Debug\net8.0\CapaNego.81B9D119.Up2Date
+C:\Users\Windows\OneDrive\Escritorio\ESPE\CLASES\4 Semestre\2257 - PROGRAMACION WEB\2257_PROGRAMACION_WEB\3P\PrimeraAppNetCore\CapaNegocio\obj\Debug\net8.0\CapaNegocio.dll
+C:\Users\Windows\OneDrive\Escritorio\ESPE\CLASES\4 Semestre\2257 - PROGRAMACION WEB\2257_PROGRAMACION_WEB\3P\PrimeraAppNetCore\CapaNegocio\obj\Debug\net8.0\refint\CapaNegocio.dll
+C:\Users\Windows\OneDrive\Escritorio\ESPE\CLASES\4 Semestre\2257 - PROGRAMACION WEB\2257_PROGRAMACION_WEB\3P\PrimeraAppNetCore\CapaNegocio\obj\Debug\net8.0\CapaNegocio.pdb
+C:\Users\Windows\OneDrive\Escritorio\ESPE\CLASES\4 Semestre\2257 - PROGRAMACION WEB\2257_PROGRAMACION_WEB\3P\PrimeraAppNetCore\CapaNegocio\obj\Debug\net8.0\ref\CapaNegocio.dll
+C:\Users\Admin\OneDrive\Documentos\6to SEMESTRE\USABILIDAD\PrimeraAppNetCore\CapaNegocio\bin\Debug\net8.0\CapaNegocio.deps.json
+C:\Users\Admin\OneDrive\Documentos\6to SEMESTRE\USABILIDAD\PrimeraAppNetCore\CapaNegocio\bin\Debug\net8.0\CapaNegocio.dll
+C:\Users\Admin\OneDrive\Documentos\6to SEMESTRE\USABILIDAD\PrimeraAppNetCore\CapaNegocio\bin\Debug\net8.0\CapaNegocio.pdb
+C:\Users\Admin\OneDrive\Documentos\6to SEMESTRE\USABILIDAD\PrimeraAppNetCore\CapaNegocio\bin\Debug\net8.0\CapaDatos.dll
+C:\Users\Admin\OneDrive\Documentos\6to SEMESTRE\USABILIDAD\PrimeraAppNetCore\CapaNegocio\bin\Debug\net8.0\CapaEntidad.dll
+C:\Users\Admin\OneDrive\Documentos\6to SEMESTRE\USABILIDAD\PrimeraAppNetCore\CapaNegocio\bin\Debug\net8.0\CapaDatos.pdb
+C:\Users\Admin\OneDrive\Documentos\6to SEMESTRE\USABILIDAD\PrimeraAppNetCore\CapaNegocio\bin\Debug\net8.0\CapaEntidad.pdb
+C:\Users\Admin\OneDrive\Documentos\6to SEMESTRE\USABILIDAD\PrimeraAppNetCore\CapaNegocio\obj\Debug\net8.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Documentos\6to SEMESTRE\USABILIDAD\PrimeraAppNetCore\CapaNegocio\obj\Debug\net8.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Documentos\6to SEMESTRE\USABILIDAD\PrimeraAppNetCore\CapaNegocio\obj\Debug\net8.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Documentos\6to SEMESTRE\USABILIDAD\PrimeraAppNetCore\CapaNegocio\obj\Debug\net8.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Documentos\6to SEMESTRE\USABILIDAD\PrimeraAppNetCore\CapaNegocio\obj\Debug\net8.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documentos\6to SEMESTRE\USABILIDAD\PrimeraAppNetCore\CapaNegocio\obj\Debug\net8.0\CapaNego.81B9D119.Up2Date
+C:\Users\Admin\OneDrive\Documentos\6to SEMESTRE\USABILIDAD\PrimeraAppNetCore\CapaNegocio\obj\Debug\net8.0\CapaNegocio.dll
+C:\Users\Admin\OneDrive\Documentos\6to SEMESTRE\USABILIDAD\PrimeraAppNetCore\CapaNegocio\obj\Debug\net8.0\refint\CapaNegocio.dll
+C:\Users\Admin\OneDrive\Documentos\6to SEMESTRE\USABILIDAD\PrimeraAppNetCore\CapaNegocio\obj\Debug\net8.0\CapaNegocio.pdb
+C:\Users\Admin\OneDrive\Documentos\6to SEMESTRE\USABILIDAD\PrimeraAppNetCore\CapaNegocio\obj\Debug\net8.0\ref\CapaNegocio.dll
+C:\Users\User\Desktop\4to\Web\este si\PrimeraAppNetCore\CapaNegocio\bin\Debug\net8.0\CapaNegocio.deps.json
+C:\Users\User\Desktop\4to\Web\este si\PrimeraAppNetCore\CapaNegocio\bin\Debug\net8.0\CapaNegocio.dll
+C:\Users\User\Desktop\4to\Web\este si\PrimeraAppNetCore\CapaNegocio\bin\Debug\net8.0\CapaNegocio.pdb
+C:\Users\User\Desktop\4to\Web\este si\PrimeraAppNetCore\CapaNegocio\bin\Debug\net8.0\CapaDatos.dll
+C:\Users\User\Desktop\4to\Web\este si\PrimeraAppNetCore\CapaNegocio\bin\Debug\net8.0\CapaEntidad.dll
+C:\Users\User\Desktop\4to\Web\este si\PrimeraAppNetCore\CapaNegocio\bin\Debug\net8.0\CapaDatos.pdb
+C:\Users\User\Desktop\4to\Web\este si\PrimeraAppNetCore\CapaNegocio\bin\Debug\net8.0\CapaEntidad.pdb
+C:\Users\User\Desktop\4to\Web\este si\PrimeraAppNetCore\CapaNegocio\obj\Debug\net8.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\4to\Web\este si\PrimeraAppNetCore\CapaNegocio\obj\Debug\net8.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\4to\Web\este si\PrimeraAppNetCore\CapaNegocio\obj\Debug\net8.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\4to\Web\este si\PrimeraAppNetCore\CapaNegocio\obj\Debug\net8.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\User\Desktop\4to\Web\este si\PrimeraAppNetCore\CapaNegocio\obj\Debug\net8.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\4to\Web\este si\PrimeraAppNetCore\CapaNegocio\obj\Debug\net8.0\CapaNego.81B9D119.Up2Date
+C:\Users\User\Desktop\4to\Web\este si\PrimeraAppNetCore\CapaNegocio\obj\Debug\net8.0\CapaNegocio.dll
+C:\Users\User\Desktop\4to\Web\este si\PrimeraAppNetCore\CapaNegocio\obj\Debug\net8.0\refint\CapaNegocio.dll
+C:\Users\User\Desktop\4to\Web\este si\PrimeraAppNetCore\CapaNegocio\obj\Debug\net8.0\CapaNegocio.pdb
+C:\Users\User\Desktop\4to\Web\este si\PrimeraAppNetCore\CapaNegocio\obj\Debug\net8.0\ref\CapaNegocio.dll
+C:\Users\User\Downloads\este si\este si\PrimeraAppNetCore\CapaNegocio\bin\Debug\net8.0\CapaNegocio.deps.json
+C:\Users\User\Downloads\este si\este si\PrimeraAppNetCore\CapaNegocio\bin\Debug\net8.0\CapaNegocio.dll
+C:\Users\User\Downloads\este si\este si\PrimeraAppNetCore\CapaNegocio\bin\Debug\net8.0\CapaNegocio.pdb
+C:\Users\User\Downloads\este si\este si\PrimeraAppNetCore\CapaNegocio\bin\Debug\net8.0\CapaDatos.dll
+C:\Users\User\Downloads\este si\este si\PrimeraAppNetCore\CapaNegocio\bin\Debug\net8.0\CapaEntidad.dll
+C:\Users\User\Downloads\este si\este si\PrimeraAppNetCore\CapaNegocio\bin\Debug\net8.0\CapaDatos.pdb
+C:\Users\User\Downloads\este si\este si\PrimeraAppNetCore\CapaNegocio\bin\Debug\net8.0\CapaEntidad.pdb
+C:\Users\User\Downloads\este si\este si\PrimeraAppNetCore\CapaNegocio\obj\Debug\net8.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\este si\este si\PrimeraAppNetCore\CapaNegocio\obj\Debug\net8.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\este si\este si\PrimeraAppNetCore\CapaNegocio\obj\Debug\net8.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\este si\este si\PrimeraAppNetCore\CapaNegocio\obj\Debug\net8.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\User\Downloads\este si\este si\PrimeraAppNetCore\CapaNegocio\obj\Debug\net8.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\este si\este si\PrimeraAppNetCore\CapaNegocio\obj\Debug\net8.0\CapaNego.81B9D119.Up2Date
+C:\Users\User\Downloads\este si\este si\PrimeraAppNetCore\CapaNegocio\obj\Debug\net8.0\CapaNegocio.dll
+C:\Users\User\Downloads\este si\este si\PrimeraAppNetCore\CapaNegocio\obj\Debug\net8.0\refint\CapaNegocio.dll
+C:\Users\User\Downloads\este si\este si\PrimeraAppNetCore\CapaNegocio\obj\Debug\net8.0\CapaNegocio.pdb
+C:\Users\User\Downloads\este si\este si\PrimeraAppNetCore\CapaNegocio\obj\Debug\net8.0\ref\CapaNegocio.dll
+C:\Users\User\OneDrive\Desktop\Mora_Codigo\este si\PrimeraAppNetCore\CapaNegocio\bin\Debug\net8.0\CapaNegocio.deps.json
+C:\Users\User\OneDrive\Desktop\Mora_Codigo\este si\PrimeraAppNetCore\CapaNegocio\bin\Debug\net8.0\CapaNegocio.dll
+C:\Users\User\OneDrive\Desktop\Mora_Codigo\este si\PrimeraAppNetCore\CapaNegocio\bin\Debug\net8.0\CapaNegocio.pdb
+C:\Users\User\OneDrive\Desktop\Mora_Codigo\este si\PrimeraAppNetCore\CapaNegocio\bin\Debug\net8.0\CapaDatos.dll
+C:\Users\User\OneDrive\Desktop\Mora_Codigo\este si\PrimeraAppNetCore\CapaNegocio\bin\Debug\net8.0\CapaEntidad.dll
+C:\Users\User\OneDrive\Desktop\Mora_Codigo\este si\PrimeraAppNetCore\CapaNegocio\bin\Debug\net8.0\CapaDatos.pdb
+C:\Users\User\OneDrive\Desktop\Mora_Codigo\este si\PrimeraAppNetCore\CapaNegocio\bin\Debug\net8.0\CapaEntidad.pdb
+C:\Users\User\OneDrive\Desktop\Mora_Codigo\este si\PrimeraAppNetCore\CapaNegocio\obj\Debug\net8.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Mora_Codigo\este si\PrimeraAppNetCore\CapaNegocio\obj\Debug\net8.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\Mora_Codigo\este si\PrimeraAppNetCore\CapaNegocio\obj\Debug\net8.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\Mora_Codigo\este si\PrimeraAppNetCore\CapaNegocio\obj\Debug\net8.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\Mora_Codigo\este si\PrimeraAppNetCore\CapaNegocio\obj\Debug\net8.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Mora_Codigo\este si\PrimeraAppNetCore\CapaNegocio\obj\Debug\net8.0\CapaNego.81B9D119.Up2Date
+C:\Users\User\OneDrive\Desktop\Mora_Codigo\este si\PrimeraAppNetCore\CapaNegocio\obj\Debug\net8.0\CapaNegocio.dll
+C:\Users\User\OneDrive\Desktop\Mora_Codigo\este si\PrimeraAppNetCore\CapaNegocio\obj\Debug\net8.0\refint\CapaNegocio.dll
+C:\Users\User\OneDrive\Desktop\Mora_Codigo\este si\PrimeraAppNetCore\CapaNegocio\obj\Debug\net8.0\CapaNegocio.pdb
+C:\Users\User\OneDrive\Desktop\Mora_Codigo\este si\PrimeraAppNetCore\CapaNegocio\obj\Debug\net8.0\ref\CapaNegocio.dll

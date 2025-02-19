@@ -1,0 +1,91 @@
+C:\Users\Windows\source\repos\PrimeraAppNetCore\CapaDatos\bin\Debug\net8.0\CapaDatos.deps.json
+C:\Users\Windows\source\repos\PrimeraAppNetCore\CapaDatos\bin\Debug\net8.0\CapaDatos.dll
+C:\Users\Windows\source\repos\PrimeraAppNetCore\CapaDatos\bin\Debug\net8.0\CapaDatos.pdb
+C:\Users\Windows\source\repos\PrimeraAppNetCore\CapaDatos\bin\Debug\net8.0\CapaEntidad.dll
+C:\Users\Windows\source\repos\PrimeraAppNetCore\CapaDatos\bin\Debug\net8.0\CapaEntidad.pdb
+C:\Users\Windows\source\repos\PrimeraAppNetCore\CapaDatos\obj\Debug\net8.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Windows\source\repos\PrimeraAppNetCore\CapaDatos\obj\Debug\net8.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\source\repos\PrimeraAppNetCore\CapaDatos\obj\Debug\net8.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\Windows\source\repos\PrimeraAppNetCore\CapaDatos\obj\Debug\net8.0\CapaDatos.AssemblyInfo.cs
+C:\Users\Windows\source\repos\PrimeraAppNetCore\CapaDatos\obj\Debug\net8.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\PrimeraAppNetCore\CapaDatos\obj\Debug\net8.0\CapaDatos.csproj.Up2Date
+C:\Users\Windows\source\repos\PrimeraAppNetCore\CapaDatos\obj\Debug\net8.0\CapaDatos.dll
+C:\Users\Windows\source\repos\PrimeraAppNetCore\CapaDatos\obj\Debug\net8.0\refint\CapaDatos.dll
+C:\Users\Windows\source\repos\PrimeraAppNetCore\CapaDatos\obj\Debug\net8.0\CapaDatos.pdb
+C:\Users\Windows\source\repos\PrimeraAppNetCore\CapaDatos\obj\Debug\net8.0\ref\CapaDatos.dll
+C:\Users\Windows\OneDrive\Escritorio\ESPE\CLASES\4 Semestre\2257 - PROGRAMACION WEB\2257_PROGRAMACION_WEB\3P\PrimeraAppNetCore\CapaDatos\bin\Debug\net8.0\CapaDatos.deps.json
+C:\Users\Windows\OneDrive\Escritorio\ESPE\CLASES\4 Semestre\2257 - PROGRAMACION WEB\2257_PROGRAMACION_WEB\3P\PrimeraAppNetCore\CapaDatos\bin\Debug\net8.0\CapaDatos.dll
+C:\Users\Windows\OneDrive\Escritorio\ESPE\CLASES\4 Semestre\2257 - PROGRAMACION WEB\2257_PROGRAMACION_WEB\3P\PrimeraAppNetCore\CapaDatos\bin\Debug\net8.0\CapaDatos.pdb
+C:\Users\Windows\OneDrive\Escritorio\ESPE\CLASES\4 Semestre\2257 - PROGRAMACION WEB\2257_PROGRAMACION_WEB\3P\PrimeraAppNetCore\CapaDatos\bin\Debug\net8.0\CapaEntidad.dll
+C:\Users\Windows\OneDrive\Escritorio\ESPE\CLASES\4 Semestre\2257 - PROGRAMACION WEB\2257_PROGRAMACION_WEB\3P\PrimeraAppNetCore\CapaDatos\bin\Debug\net8.0\CapaEntidad.pdb
+C:\Users\Windows\OneDrive\Escritorio\ESPE\CLASES\4 Semestre\2257 - PROGRAMACION WEB\2257_PROGRAMACION_WEB\3P\PrimeraAppNetCore\CapaDatos\obj\Debug\net8.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive\Escritorio\ESPE\CLASES\4 Semestre\2257 - PROGRAMACION WEB\2257_PROGRAMACION_WEB\3P\PrimeraAppNetCore\CapaDatos\obj\Debug\net8.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\OneDrive\Escritorio\ESPE\CLASES\4 Semestre\2257 - PROGRAMACION WEB\2257_PROGRAMACION_WEB\3P\PrimeraAppNetCore\CapaDatos\obj\Debug\net8.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\Windows\OneDrive\Escritorio\ESPE\CLASES\4 Semestre\2257 - PROGRAMACION WEB\2257_PROGRAMACION_WEB\3P\PrimeraAppNetCore\CapaDatos\obj\Debug\net8.0\CapaDatos.AssemblyInfo.cs
+C:\Users\Windows\OneDrive\Escritorio\ESPE\CLASES\4 Semestre\2257 - PROGRAMACION WEB\2257_PROGRAMACION_WEB\3P\PrimeraAppNetCore\CapaDatos\obj\Debug\net8.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive\Escritorio\ESPE\CLASES\4 Semestre\2257 - PROGRAMACION WEB\2257_PROGRAMACION_WEB\3P\PrimeraAppNetCore\CapaDatos\obj\Debug\net8.0\CapaDatos.sourcelink.json
+C:\Users\Windows\OneDrive\Escritorio\ESPE\CLASES\4 Semestre\2257 - PROGRAMACION WEB\2257_PROGRAMACION_WEB\3P\PrimeraAppNetCore\CapaDatos\obj\Debug\net8.0\CapaDatos.csproj.Up2Date
+C:\Users\Windows\OneDrive\Escritorio\ESPE\CLASES\4 Semestre\2257 - PROGRAMACION WEB\2257_PROGRAMACION_WEB\3P\PrimeraAppNetCore\CapaDatos\obj\Debug\net8.0\CapaDatos.dll
+C:\Users\Windows\OneDrive\Escritorio\ESPE\CLASES\4 Semestre\2257 - PROGRAMACION WEB\2257_PROGRAMACION_WEB\3P\PrimeraAppNetCore\CapaDatos\obj\Debug\net8.0\refint\CapaDatos.dll
+C:\Users\Windows\OneDrive\Escritorio\ESPE\CLASES\4 Semestre\2257 - PROGRAMACION WEB\2257_PROGRAMACION_WEB\3P\PrimeraAppNetCore\CapaDatos\obj\Debug\net8.0\CapaDatos.pdb
+C:\Users\Windows\OneDrive\Escritorio\ESPE\CLASES\4 Semestre\2257 - PROGRAMACION WEB\2257_PROGRAMACION_WEB\3P\PrimeraAppNetCore\CapaDatos\obj\Debug\net8.0\ref\CapaDatos.dll
+C:\Users\Admin\OneDrive\Documentos\6to SEMESTRE\USABILIDAD\PrimeraAppNetCore\CapaDatos\bin\Debug\net8.0\CapaDatos.deps.json
+C:\Users\Admin\OneDrive\Documentos\6to SEMESTRE\USABILIDAD\PrimeraAppNetCore\CapaDatos\bin\Debug\net8.0\CapaDatos.dll
+C:\Users\Admin\OneDrive\Documentos\6to SEMESTRE\USABILIDAD\PrimeraAppNetCore\CapaDatos\bin\Debug\net8.0\CapaDatos.pdb
+C:\Users\Admin\OneDrive\Documentos\6to SEMESTRE\USABILIDAD\PrimeraAppNetCore\CapaDatos\bin\Debug\net8.0\CapaEntidad.dll
+C:\Users\Admin\OneDrive\Documentos\6to SEMESTRE\USABILIDAD\PrimeraAppNetCore\CapaDatos\bin\Debug\net8.0\CapaEntidad.pdb
+C:\Users\Admin\OneDrive\Documentos\6to SEMESTRE\USABILIDAD\PrimeraAppNetCore\CapaDatos\obj\Debug\net8.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Documentos\6to SEMESTRE\USABILIDAD\PrimeraAppNetCore\CapaDatos\obj\Debug\net8.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Documentos\6to SEMESTRE\USABILIDAD\PrimeraAppNetCore\CapaDatos\obj\Debug\net8.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Documentos\6to SEMESTRE\USABILIDAD\PrimeraAppNetCore\CapaDatos\obj\Debug\net8.0\CapaDatos.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Documentos\6to SEMESTRE\USABILIDAD\PrimeraAppNetCore\CapaDatos\obj\Debug\net8.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documentos\6to SEMESTRE\USABILIDAD\PrimeraAppNetCore\CapaDatos\obj\Debug\net8.0\CapaDatos.csproj.Up2Date
+C:\Users\Admin\OneDrive\Documentos\6to SEMESTRE\USABILIDAD\PrimeraAppNetCore\CapaDatos\obj\Debug\net8.0\CapaDatos.dll
+C:\Users\Admin\OneDrive\Documentos\6to SEMESTRE\USABILIDAD\PrimeraAppNetCore\CapaDatos\obj\Debug\net8.0\refint\CapaDatos.dll
+C:\Users\Admin\OneDrive\Documentos\6to SEMESTRE\USABILIDAD\PrimeraAppNetCore\CapaDatos\obj\Debug\net8.0\CapaDatos.pdb
+C:\Users\Admin\OneDrive\Documentos\6to SEMESTRE\USABILIDAD\PrimeraAppNetCore\CapaDatos\obj\Debug\net8.0\ref\CapaDatos.dll
+C:\Users\User\Desktop\4to\Web\este si\PrimeraAppNetCore\CapaDatos\bin\Debug\net8.0\CapaDatos.deps.json
+C:\Users\User\Desktop\4to\Web\este si\PrimeraAppNetCore\CapaDatos\bin\Debug\net8.0\CapaDatos.dll
+C:\Users\User\Desktop\4to\Web\este si\PrimeraAppNetCore\CapaDatos\bin\Debug\net8.0\CapaDatos.pdb
+C:\Users\User\Desktop\4to\Web\este si\PrimeraAppNetCore\CapaDatos\bin\Debug\net8.0\CapaEntidad.dll
+C:\Users\User\Desktop\4to\Web\este si\PrimeraAppNetCore\CapaDatos\bin\Debug\net8.0\CapaEntidad.pdb
+C:\Users\User\Desktop\4to\Web\este si\PrimeraAppNetCore\CapaDatos\obj\Debug\net8.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\4to\Web\este si\PrimeraAppNetCore\CapaDatos\obj\Debug\net8.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\4to\Web\este si\PrimeraAppNetCore\CapaDatos\obj\Debug\net8.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\4to\Web\este si\PrimeraAppNetCore\CapaDatos\obj\Debug\net8.0\CapaDatos.AssemblyInfo.cs
+C:\Users\User\Desktop\4to\Web\este si\PrimeraAppNetCore\CapaDatos\obj\Debug\net8.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\4to\Web\este si\PrimeraAppNetCore\CapaDatos\obj\Debug\net8.0\CapaDatos.csproj.Up2Date
+C:\Users\User\Desktop\4to\Web\este si\PrimeraAppNetCore\CapaDatos\obj\Debug\net8.0\CapaDatos.dll
+C:\Users\User\Desktop\4to\Web\este si\PrimeraAppNetCore\CapaDatos\obj\Debug\net8.0\refint\CapaDatos.dll
+C:\Users\User\Desktop\4to\Web\este si\PrimeraAppNetCore\CapaDatos\obj\Debug\net8.0\CapaDatos.pdb
+C:\Users\User\Desktop\4to\Web\este si\PrimeraAppNetCore\CapaDatos\obj\Debug\net8.0\ref\CapaDatos.dll
+C:\Users\User\Downloads\este si\este si\PrimeraAppNetCore\CapaDatos\bin\Debug\net8.0\CapaDatos.deps.json
+C:\Users\User\Downloads\este si\este si\PrimeraAppNetCore\CapaDatos\bin\Debug\net8.0\CapaDatos.dll
+C:\Users\User\Downloads\este si\este si\PrimeraAppNetCore\CapaDatos\bin\Debug\net8.0\CapaDatos.pdb
+C:\Users\User\Downloads\este si\este si\PrimeraAppNetCore\CapaDatos\bin\Debug\net8.0\CapaEntidad.dll
+C:\Users\User\Downloads\este si\este si\PrimeraAppNetCore\CapaDatos\bin\Debug\net8.0\CapaEntidad.pdb
+C:\Users\User\Downloads\este si\este si\PrimeraAppNetCore\CapaDatos\obj\Debug\net8.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\este si\este si\PrimeraAppNetCore\CapaDatos\obj\Debug\net8.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\este si\este si\PrimeraAppNetCore\CapaDatos\obj\Debug\net8.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\este si\este si\PrimeraAppNetCore\CapaDatos\obj\Debug\net8.0\CapaDatos.AssemblyInfo.cs
+C:\Users\User\Downloads\este si\este si\PrimeraAppNetCore\CapaDatos\obj\Debug\net8.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\este si\este si\PrimeraAppNetCore\CapaDatos\obj\Debug\net8.0\CapaDatos.csproj.Up2Date
+C:\Users\User\Downloads\este si\este si\PrimeraAppNetCore\CapaDatos\obj\Debug\net8.0\CapaDatos.dll
+C:\Users\User\Downloads\este si\este si\PrimeraAppNetCore\CapaDatos\obj\Debug\net8.0\refint\CapaDatos.dll
+C:\Users\User\Downloads\este si\este si\PrimeraAppNetCore\CapaDatos\obj\Debug\net8.0\CapaDatos.pdb
+C:\Users\User\Downloads\este si\este si\PrimeraAppNetCore\CapaDatos\obj\Debug\net8.0\ref\CapaDatos.dll
+C:\Users\User\OneDrive\Desktop\Mora_Codigo\este si\PrimeraAppNetCore\CapaDatos\bin\Debug\net8.0\CapaDatos.deps.json
+C:\Users\User\OneDrive\Desktop\Mora_Codigo\este si\PrimeraAppNetCore\CapaDatos\bin\Debug\net8.0\CapaDatos.dll
+C:\Users\User\OneDrive\Desktop\Mora_Codigo\este si\PrimeraAppNetCore\CapaDatos\bin\Debug\net8.0\CapaDatos.pdb
+C:\Users\User\OneDrive\Desktop\Mora_Codigo\este si\PrimeraAppNetCore\CapaDatos\bin\Debug\net8.0\CapaEntidad.dll
+C:\Users\User\OneDrive\Desktop\Mora_Codigo\este si\PrimeraAppNetCore\CapaDatos\bin\Debug\net8.0\CapaEntidad.pdb
+C:\Users\User\OneDrive\Desktop\Mora_Codigo\este si\PrimeraAppNetCore\CapaDatos\obj\Debug\net8.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Mora_Codigo\este si\PrimeraAppNetCore\CapaDatos\obj\Debug\net8.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\Mora_Codigo\este si\PrimeraAppNetCore\CapaDatos\obj\Debug\net8.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\Mora_Codigo\este si\PrimeraAppNetCore\CapaDatos\obj\Debug\net8.0\CapaDatos.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\Mora_Codigo\este si\PrimeraAppNetCore\CapaDatos\obj\Debug\net8.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Mora_Codigo\este si\PrimeraAppNetCore\CapaDatos\obj\Debug\net8.0\CapaDatos.csproj.Up2Date
+C:\Users\User\OneDrive\Desktop\Mora_Codigo\este si\PrimeraAppNetCore\CapaDatos\obj\Debug\net8.0\CapaDatos.dll
+C:\Users\User\OneDrive\Desktop\Mora_Codigo\este si\PrimeraAppNetCore\CapaDatos\obj\Debug\net8.0\refint\CapaDatos.dll
+C:\Users\User\OneDrive\Desktop\Mora_Codigo\este si\PrimeraAppNetCore\CapaDatos\obj\Debug\net8.0\CapaDatos.pdb
+C:\Users\User\OneDrive\Desktop\Mora_Codigo\este si\PrimeraAppNetCore\CapaDatos\obj\Debug\net8.0\ref\CapaDatos.dll

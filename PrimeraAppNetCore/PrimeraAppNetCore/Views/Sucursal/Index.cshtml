@@ -1,0 +1,18 @@
+﻿@{
+    ViewData["Title"] = "Sucursales";
+}
+
+<h1>Sucursales</h1>
+
+<form id="formBuscar">
+    <input type="text" name="nombre" placeholder="Buscar Nombre">
+    <input type="text" name="direccion" placeholder="Buscar Dirección">
+    <button type="button" id="buscarBtn" onclick="buscar()">Buscar</button>
+    <button type="button" id="limpiarBtn" onclick="limpiar()">Limpiar</button>
+</form>
+
+<div id="divtabla"></div>
+
+
+<script src="~/js/generic.js"></script>
+<script src="~/js/sucursal.js"></script>
