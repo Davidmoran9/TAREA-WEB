@@ -1,0 +1,85 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+
+<h1 class="mb-4 text-center">Laboratorioo</h1>
+
+<fieldset class="border p-4 rounded shadow-sm">
+    <legend class="w-auto px-3">Búsqueda de Laboratorio</legend>
+
+    <form id="frmBusqueda" method="post" class="row g-3">
+        <div class="col-md-6">
+            <label for="inputNombre" class="form-label">Nombre</label>
+            <input type="text" class="form-control" name="nombre" id="inputNombre" placeholder="Ingrese el nombre">
+        </div>
+
+        <div class="col-md-6">
+            <label for="inputDireccion" class="form-label">Dirección</label>
+            <input type="text" class="form-control" name="Direccion" id="inputDireccion" placeholder="Ingrese la dirección">
+        </div>
+
+        <div class="col-12">
+            <label for="inputPersona" class="form-label">Persona Contacto</label>
+            <input type="text" class="form-control" id="inputPersona" name="personaContacto" placeholder="Ingrese la persona de contacto">
+        </div>
+
+        <div class="col-12 text-end mt-3">
+            <button type="button" class="btn btn-primary me-2" onclick="BuscarLaboratorio()">
+                <i class="bi bi-search"></i> Buscar
+            </button>
+            <button type="button" class="btn btn-secondary" onclick="LimpiarLaboratorio()">
+                <i class="bi bi-eraser"></i> Limpiar
+            </button>
+        </div>
+    </form>
+</fieldset>
+<fieldset class="border p-4 rounded shadow-sm">
+    <legend class="w-auto px-3">Agregar Laboratorio</legend>
+
+    <form id="frmGuardarLaboratorio" method="post" class="row g-3">
+        <!-- Campo oculto para el ID (sirve para insertar o actualizar) -->
+        <input type="hidden" name="idLaboratorio" id="idLaboratorio" value="0">
+
+        <div class="col-md-6">
+            <label for="nombre" class="form-label">Nombre</label>
+            <input type="text" class="form-control" name="nombre" id="nombre" placeholder="Ingrese el nombre">
+        </div>
+
+        <div class="col-md-6">
+            <label for="direccion" class="form-label">Dirección</label>
+            <input type="text" class="form-control" name="direccion" id="direccion" placeholder="Ingrese la dirección">
+        </div>
+
+        <div class="col-md-6">
+            <label for="personaContacto" class="form-label">Persona de Contacto</label>
+            <input type="text" class="form-control" name="personaContacto" id="personaContacto" placeholder="Ingrese el nombre de contacto">
+        </div>
+
+        <div class="col-md-6">
+            <label for="numeroContacto" class="form-label">Número de Contacto</label>
+            <input type="text" class="form-control" name="numeroContacto" id="numeroContacto" placeholder="Ingrese el número de contacto">
+        </div>
+
+        <div class="col-12 text-end mt-3">
+            <button type="button" class="btn btn-primary me-2" onclick="GuardarLaboratorio()">
+                <i class="bi bi-plus-circle"></i> Agregar
+            </button>
+            <button type="button" class="btn btn-secondary" onclick="LimpiarLaboratorio()">
+                <i class="bi bi-eraser"></i> Limpiar
+            </button>
+        </div>
+    </form>
+</fieldset>
+
+
+
+
+
+<div id="divTable" class="mt-4"></div>
+
+
+
+<link href="~/css/tablas.css" rel="stylesheet" />
+
+<script src="~/js/generic.js"></script>
+<script src="~/js/laboratorio.js"></script>

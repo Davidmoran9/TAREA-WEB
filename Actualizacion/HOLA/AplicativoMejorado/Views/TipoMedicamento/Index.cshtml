@@ -1,0 +1,73 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+
+<h1 class="mb-4 text-center">Medicamento</h1>
+
+<h1 class="mb-4 text-center">Tipos de Medicamento</h1>
+<fieldset class="border p-4 rounded shadow-sm">
+    <legend class="w-auto px-3">Búsqueda de Tipo de Medicamento</legend>
+
+    <form id="frmBusqueda" method="post" class="row g-3">
+        <div class="col-md-6">
+            <label for="inputNombre" class="form-label">Nombre</label>
+            <input type="text" class="form-control" name="nombre" id="inputNombre"
+                   placeholder="Ingrese el nombre" oninput="BuscarTipoMedicamento()">
+        </div>
+
+    </form>
+</fieldset>
+
+<fieldset class="border p-4 rounded shadow-sm">
+    <legend class="w-auto px-3">Búsqueda de Tipo de Medicamento</legend>
+
+    <form id="frmBusqueda" method="post" class="row g-3">
+        <div class="col-md-6">
+            <label for="inputNombre" class="form-label">Nombre</label>
+            <input type="text" class="form-control" name="nombre" id="inputNombre" placeholder="Ingrese el nombre">
+        </div>
+
+        <div class="col-md-6">
+            <label for="inputDescripcion" class="form-label">Descripción</label>
+            <input type="text" class="form-control" name="descripcion" id="inputDescripcion" placeholder="Ingrese la descripción">
+        </div>
+
+        <div class="col-12 text-end mt-3">
+            <button type="button" class="btn btn-primary me-2" onclick="BuscarTipoMedicamento()">
+                <i class="bi bi-search"></i> Buscar
+            </button>
+            <button type="button" class="btn btn-secondary" onclick="LimpiarTipoMedicamento()">
+                <i class="bi bi-eraser"></i> Limpiar
+            </button>
+        </div>
+    </form>
+</fieldset>
+<fieldset class="border p-4 rounded shadow-sm">
+    <legend class="w-auto px-3">Agregar Tipo de Medicamento</legend>
+
+    <form id="frmGuardarTipoMedicamento" method="post" class="row g-3">
+        <div class="col-md-6">
+            <label for="nombre" class="form-label">Nombre</label>
+            <input type="text" class="form-control" name="nombre" id="nombre" placeholder="Ingrese el nombre">
+        </div>
+        <div class="col-md-6">
+            <label for="descripcion" class="form-label">Descripción</label>
+            <input type="text" class="form-control" name="descripcion" id="descripcion" placeholder="Ingrese la descripción">
+        </div>
+
+        <div class="col-12 text-end mt-3">
+            <button type="button" class="btn btn-primary me-2" onclick="GuardarTipoMedicamento()">
+                <i class="bi bi-plus-circle"></i> Agregar
+            </button>
+            <button type="button" class="btn btn-secondary" onclick="LimpiarTipoMedicamento()">
+                <i class="bi bi-eraser"></i> Limpiar
+            </button>
+        </div>
+    </form>
+</fieldset>
+<div id="divTable" class="mt-4">
+</div>
+<link href="~/css/tablas.css" rel="stylesheet" />
+<script src="~/js/medicamento.js"></script>
+<script src="~/js/generic.js"></script>
+
