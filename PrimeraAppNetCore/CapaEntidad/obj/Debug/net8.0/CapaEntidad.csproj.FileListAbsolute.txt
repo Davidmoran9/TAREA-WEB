@@ -65,3 +65,15 @@ C:\Users\User\OneDrive\Desktop\Mora_Codigo\este si\PrimeraAppNetCore\CapaEntidad
 C:\Users\User\OneDrive\Desktop\Mora_Codigo\este si\PrimeraAppNetCore\CapaEntidad\obj\Debug\net8.0\refint\CapaEntidad.dll
 C:\Users\User\OneDrive\Desktop\Mora_Codigo\este si\PrimeraAppNetCore\CapaEntidad\obj\Debug\net8.0\CapaEntidad.pdb
 C:\Users\User\OneDrive\Desktop\Mora_Codigo\este si\PrimeraAppNetCore\CapaEntidad\obj\Debug\net8.0\ref\CapaEntidad.dll
+C:\Users\User\OneDrive\Desktop\TAREA-WEB\PrimeraAppNetCore\CapaEntidad\bin\Debug\net8.0\CapaEntidad.deps.json
+C:\Users\User\OneDrive\Desktop\TAREA-WEB\PrimeraAppNetCore\CapaEntidad\bin\Debug\net8.0\CapaEntidad.dll
+C:\Users\User\OneDrive\Desktop\TAREA-WEB\PrimeraAppNetCore\CapaEntidad\bin\Debug\net8.0\CapaEntidad.pdb
+C:\Users\User\OneDrive\Desktop\TAREA-WEB\PrimeraAppNetCore\CapaEntidad\obj\Debug\net8.0\CapaEntidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\TAREA-WEB\PrimeraAppNetCore\CapaEntidad\obj\Debug\net8.0\CapaEntidad.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\TAREA-WEB\PrimeraAppNetCore\CapaEntidad\obj\Debug\net8.0\CapaEntidad.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\TAREA-WEB\PrimeraAppNetCore\CapaEntidad\obj\Debug\net8.0\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\TAREA-WEB\PrimeraAppNetCore\CapaEntidad\obj\Debug\net8.0\CapaEntidad.sourcelink.json
+C:\Users\User\OneDrive\Desktop\TAREA-WEB\PrimeraAppNetCore\CapaEntidad\obj\Debug\net8.0\CapaEntidad.dll
+C:\Users\User\OneDrive\Desktop\TAREA-WEB\PrimeraAppNetCore\CapaEntidad\obj\Debug\net8.0\refint\CapaEntidad.dll
+C:\Users\User\OneDrive\Desktop\TAREA-WEB\PrimeraAppNetCore\CapaEntidad\obj\Debug\net8.0\CapaEntidad.pdb
+C:\Users\User\OneDrive\Desktop\TAREA-WEB\PrimeraAppNetCore\CapaEntidad\obj\Debug\net8.0\ref\CapaEntidad.dll

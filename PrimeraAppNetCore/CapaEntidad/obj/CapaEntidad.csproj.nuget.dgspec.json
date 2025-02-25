@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\OneDrive\\Desktop\\Mora_Codigo\\este si\\PrimeraAppNetCore\\CapaEntidad\\CapaEntidad.csproj": {}
+    "C:\\Users\\User\\OneDrive\\Desktop\\TAREA-WEB\\PrimeraAppNetCore\\CapaEntidad\\CapaEntidad.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\OneDrive\\Desktop\\Mora_Codigo\\este si\\PrimeraAppNetCore\\CapaEntidad\\CapaEntidad.csproj": {
+    "C:\\Users\\User\\OneDrive\\Desktop\\TAREA-WEB\\PrimeraAppNetCore\\CapaEntidad\\CapaEntidad.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Desktop\\Mora_Codigo\\este si\\PrimeraAppNetCore\\CapaEntidad\\CapaEntidad.csproj",
+        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Desktop\\TAREA-WEB\\PrimeraAppNetCore\\CapaEntidad\\CapaEntidad.csproj",
         "projectName": "CapaEntidad",
-        "projectPath": "C:\\Users\\User\\OneDrive\\Desktop\\Mora_Codigo\\este si\\PrimeraAppNetCore\\CapaEntidad\\CapaEntidad.csproj",
+        "projectPath": "C:\\Users\\User\\OneDrive\\Desktop\\TAREA-WEB\\PrimeraAppNetCore\\CapaEntidad\\CapaEntidad.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\OneDrive\\Desktop\\Mora_Codigo\\este si\\PrimeraAppNetCore\\CapaEntidad\\obj\\",
+        "outputPath": "C:\\Users\\User\\OneDrive\\Desktop\\TAREA-WEB\\PrimeraAppNetCore\\CapaEntidad\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
